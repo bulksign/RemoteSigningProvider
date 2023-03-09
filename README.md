@@ -1,4 +1,4 @@
-##SigningProvider
+SigningProvider
 
 Sample code which demonstrates implementing Bulksign signing providers. In these samples, signing is done using a self signed certificate for demonstration purposes.
 
