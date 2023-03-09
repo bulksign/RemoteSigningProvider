@@ -1,5 +1,10 @@
-# RemoteSigningProvider
-Sample code which demonstrates implementing a Bulksign remote signing provider. In the sample, signing is done using a self signed certificate for demonstration purposes.
+#SigningProvider sample
+Sample code which demonstrates implementing Bulksign signing providers. In these samples, signing is done using a self signed certificate for demonstration purposes.
 
-Documentation is available <a href="https://bulksign.com/docs/RemoteSignature.htm">here</a>
+Documentation for signing providers is available : 
+
+<a href="https://bulksign.com/docs/RemoteSignature.htm">RemoteSignature provider</a>
+
+<a href="https://bulksign.com/docs/DisposableSignature.htm">DisposableSignature provider</a>
+
 
