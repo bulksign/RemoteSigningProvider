@@ -80,7 +80,7 @@ namespace Bulksign.Sample
 			return new DisposableOtpResult
 			{
 				IsSuccess     = true,
-				TransactionId = "438634"
+				TransactionId = "438634"  //if the SMS gateway provides a unique transaction identifier, please return it here.
 			};
 		}
 
