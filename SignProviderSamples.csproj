@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Bulksign.Extensibility" Version="4.54.1" />
+    <PackageReference Include="Bulksign.Extensibility" Version="4.91.0" />
     <PackageReference Include="Portable.BouncyCastle" Version="1.9.0" />
   </ItemGroup>
 
